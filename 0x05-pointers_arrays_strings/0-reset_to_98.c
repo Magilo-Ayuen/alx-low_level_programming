@@ -1,10 +1,13 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
- * main - check the code (key part of the program)
- *
- * Return: Always (0)
+ *reset - is the function that takes a pointer to an int ..
+ *Description: updates value  to 98
+ *@n: param
+ *Return: void
  */
+
+
 void reset(int *n)
 {
 	*n = 98;
