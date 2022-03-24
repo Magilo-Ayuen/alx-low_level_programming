@@ -4,7 +4,7 @@
  * @dest: pointer destination
  * @src: pointer source
  * @n: number of bytes
- * Return: void
+ * Return: dest
 */
 
 char *_strncat(char *dest, char *src, int n)
