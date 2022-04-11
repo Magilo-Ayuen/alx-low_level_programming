@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-
 /**
- * main - prints the file
- * return: 0 always for a success
+ * main - prints the name of the file
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
